@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Matteo D'Orazio👋
+I'm studing Computer and Automation Science at Università Politecnica delle Marche (UNIVPM).
+Until now I've got in touch with C++, Java, Python and a little bit of Matlab.
+I'm really excited of this new adventure, who knows where it'll take me!⚡
 
 <!--
 **mdoraz/mdoraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
